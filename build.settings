@@ -1,13 +1,5 @@
 settings =
 {
-	--[[
-	orientation = {
-		default = "portrait", 
-		supported = { "portrait", },
-		-- supported = { "landscapeLeft", "landscapeRight" },
-		-- supported = { "landscapeLeft", "landscapeRight", "portrait", "portraitUpsideDown", },
-	},
-	--]]
 
 	iphone =
 	{
@@ -37,5 +29,10 @@ settings =
 				"Icon-Small-50@2x.png",
 			},
 		},
-	}
+	},
+	["plugin.voiceToText"] =
+        {
+            publisherId = "com.scottrules44",
+            supportedPlatforms = { iphone=true, android=true }
+        },
 }
