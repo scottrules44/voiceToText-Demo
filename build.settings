@@ -30,9 +30,11 @@ settings =
 			},
 		},
 	},
-	["plugin.voiceToText"] =
-        {
-            publisherId = "com.scottrules44",
-            supportedPlatforms = { iphone=true, android=true }
-        },
+	plugins = {
+		["plugin.voiceToText"] =
+	        {
+	            publisherId = "com.scottrules44",
+	            supportedPlatforms = { iphone=true, android=true }
+	        },
+	},
 }
