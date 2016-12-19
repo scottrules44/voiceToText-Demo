@@ -30,6 +30,15 @@ settings =
 			},
 		},
 	},
+	android =
+    {
+        usesPermissions =
+        {
+            "android.permission.INTERNET",
+            "android.permission.RECORD_AUDIO",
+        },
+    },
+	
 	plugins = {
 		["plugin.voiceToText"] =
 	        {
