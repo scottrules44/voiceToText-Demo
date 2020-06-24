@@ -44,10 +44,10 @@ settings =
 	        {
 	            publisherId="scotth.tech",
 			supportedPlatforms = {
-				android = { url="https://solar2dmarketplace.com/marketplacePlugins?ID=l6kxkc&plugin=VoiceToText_scotth-tech&type=Android"},
-				iphone = { url="https://solar2dmarketplace.com/marketplacePlugins?ID=l6kxkc&plugin=VoiceToText_scotth-tech&type=iOS"},
-				macos = { url="https://solar2dmarketplace.com/marketplacePlugins?ID=l6kxkc&plugin=VoiceToText_scotth-tech&type=MacOS" }, --Only works with Corona Simulator 3592+
-				win32 = { url="https://solar2dmarketplace.com/marketplacePlugins?ID=l6kxkc&plugin=VoiceToText_scotth-tech&type=Windows" }, --Only works with Corona Simulator 3592+
+				android = { url="https://solar2dmarketplace.com/marketplacePlugins?ID=ACCOUNT_ID&plugin=VoiceToText_scotth-tech&type=Android"},
+				iphone = { url="https://solar2dmarketplace.com/marketplacePlugins?ID=ACCOUNT_ID&plugin=VoiceToText_scotth-tech&type=iOS"},
+				macos = { url="https://solar2dmarketplace.com/marketplacePlugins?ID=ACCOUNT_ID&plugin=VoiceToText_scotth-tech&type=MacOS" }, --Only works with Corona Simulator 3592+
+				win32 = { url="https://solar2dmarketplace.com/marketplacePlugins?ID=ACCOUNT_ID&plugin=VoiceToText_scotth-tech&type=Windows" }, --Only works with Corona Simulator 3592+
 			}
 	        },
 	},
