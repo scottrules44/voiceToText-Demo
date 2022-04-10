@@ -24,7 +24,7 @@ function showPermissionPopup(  )
         urgency = "Critical",
         listener = appPermissionsListener,
         rationaleTitle = "Microphone access required",
-        rationaleDescription = "Microphone access is required to take photos. Re-request now?",
+        rationaleDescription = "Microphone access is required to get text. Re-request now?",
         settingsRedirectTitle = "Alert",
         settingsRedirectDescription = "Without the ability to use microphone, this app cannot properly function. Please grant microphone access within Settings."
     }
